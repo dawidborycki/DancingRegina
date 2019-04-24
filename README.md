@@ -1,4 +1,4 @@
-## DancingRegina
+## Description
 This is a mobile AR app created with Unity and Vuforia. The app shows how to quickly create AR experience by attaching digital character to the image target.
 
 ## Usage
